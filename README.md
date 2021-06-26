@@ -73,13 +73,6 @@ https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
   
 https://choosealicense.com/
 
-https://code.tutsplus.com/tutorials/using-passport-with-sequelize-and-mysql--cms-27537
-
-
-(Node.js Passport Login System Tutorial)<br>https://youtu.be/-RCnNyD0L-s
-
-https://www.freepik.com/
-    
 
 
 ## License
