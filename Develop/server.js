@@ -17,27 +17,3 @@ app.listen(PORT, () => {
 
 
 
-// {
-// 	"category_name": "duck"
-
-
-	
-	
-// }
-
-// {
-// 	"tag_name": "black"
-
-
-	
-	
-// }
-
-// {
-// 	"product_name": "Football",
-// 	"price": 45,
-// 	"stock": 5,
-// 	"category_id": 3,
-// 	"tagIds": [1, 2, 3, 4]
-	
-// }
