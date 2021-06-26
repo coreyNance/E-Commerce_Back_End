@@ -39,7 +39,7 @@ Product.init(
       references: {
         model: 'category',
         key: 'id',
-        unique: false   // check if actually needed.
+        // unique: false   // check if actually needed.
       }
     },
 
